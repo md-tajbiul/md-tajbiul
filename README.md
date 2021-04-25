@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Tajbiul.
-#### I am a self-learner programmer.
+## Hi there 👋, I'm Tajbiul.
+### I am a self-learner programmer.
 ![I am a self-learner programmer.](https://i.ibb.co/W2Zgn3s/TAJBIUL.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
