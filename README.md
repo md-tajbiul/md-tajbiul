@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tajbiul</h1>
 <h3 align="center">A passionate React Developer | JavaScript Miner from Bangladesh</h3>
-(https://i.ibb.co/W2Zgn3s/TAJBIUL.png)
+lol(https://i.ibb.co/W2Zgn3s/TAJBIUL.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-tajbiul&label=Profile%20views&color=0e75b6&style=flat" alt="md-tajbiul" /> </p>
 
 I'm Tajbiul a curious web developer. I have 1 year of experience with JavaScript & MERN Stack Web Development. I'm very comfortable with React, Github, Node.js, MongoDB, Express, and JavaScript.
