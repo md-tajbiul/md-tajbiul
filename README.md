@@ -9,9 +9,8 @@ My hobby is keeping myself updated with the latest technologies in my field.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tajbiul_tweet" target="blank"><img align="center" src="https://www.pngkit.com/png/full/25-251946_twitter-link-to-logo-twitter.png" alt="tajbiul_tweet" height="30" width="40" /></a>
-  <a href="https://twitter.com/tajbiul_tweet?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow Me</a><script async src="https://platform.twitter.com/widgets.js" height="30" width="40" charset="utf-8"></script>
-<a href="https://linkedin.com/in/md-tajbiul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="md-tajbiul" height="30" width="40" /></a>
-<a href="https://instagram.com/tajbiul.insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="tajbiul.insta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-tajbiul" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-512.png" alt="md-tajbiul" height="30" width="40" /></a>
+<a href="https://instagram.com/tajbiul.insta" target="blank"><img align="center" src="https://www.pngkit.com/png/full/1-13187_instagram-logo-new-vector-eps-free-download-logo.png" alt="tajbiul.insta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
