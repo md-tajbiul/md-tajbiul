@@ -22,7 +22,7 @@ My hobby is keeping myself updated with the latest technologies in my field.
 
 - 📝 I regularly write articles on [https://tajbiul.medium.com/](https://tajbiul.medium.com/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HQPdyYBDbJ4x9oQbsjuaJLo9D1SiuLZB/view](https://drive.google.com/file/d/1HQPdyYBDbJ4x9oQbsjuaJLo9D1SiuLZB/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z2KCKbbTGV8BnnzvOZyUka7miLWpwY0s/view?usp=sharing)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-tajbiul&show_icons=true&locale=en&layout=compact" alt="md-tajbiul" /></p>
 
