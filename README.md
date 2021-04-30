@@ -17,7 +17,7 @@ My hobby is keeping myself updated with the latest technologies in my field.
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, React-Native**
 
-- 👨‍💻 All of my projects are available at [https://tajbiul.com/](https://tajbiul.com/)
+- 👨‍💻 My Portfolio [https://tajbiul.com/](https://tajbiul.com/)
 
 - 📝 I regularly write articles on [https://tajbiul.medium.com/](https://tajbiul.medium.com/)
 
