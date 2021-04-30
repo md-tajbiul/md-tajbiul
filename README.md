@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tajbiul</h1>
 <h3 align="center">A passionate React Developer | JavaScript Miner from Bangladesh</h3>
 
-I'm Tajbiul a curious web developer. I have 1 year of experience with JavaScript & MERN Stack Web Development. I'm very comfortable with JavaScript, React, Node.js, MongoDB, Express.
+I'm Tajbiul a curious web developer. I love JavaScript & MERN Stack Web Development. I'm very comfortable with JavaScript, React, Node.js, Express, MongoDB.
 My hobby is keeping myself updated with the latest technologies in my field.
 
 <h3 align="left">Connect with me:</h3>
